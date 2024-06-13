@@ -1,0 +1,32 @@
+* {
+    background-color: #FFF455;
+    color: #FF204E;
+    justify-content: center;
+}
+
+h1 {
+    font-family: "Rubik Gemstones", system-ui;
+    font-weight: 400;
+    font-size: 80px;
+    font-style: normal;
+}
+
+body {
+    padding: 1px;
+}
+
+.toggler {
+    font-size: 200px;
+    border: 10px solid #FF204E;
+    border-radius: 60%;
+    padding: 20px 50px;
+    background-color: #0C2D57;
+}
+
+.container {
+    border: 10px solid #FF204E;
+    border-radius: 50%;
+    padding: 1px;
+    text-align: center;
+    background-color: #FF204E;
+}
