@@ -1,4 +1,7 @@
 # Toggle button using React Hooks
 
-![countbutton - Personal - Microsoft_ Edge 2024-06-28 01-08-21](https://github.com/Raveenaross/togglebtn/assets/166907857/55334ced-d2f5-4091-92f1-3fc0c78d50d8)
+![Screenshot_28-6-2024_11314_localhost](https://github.com/Raveenaross/togglebtn/assets/166907857/dbff8f68-5f54-4c79-a6e4-4a3241b19c18)
+
+![Screenshot_28-6-2024_11255_localhost](https://github.com/Raveenaross/togglebtn/assets/166907857/935246f0-d34a-4aad-ba05-07dae617e389)
+
 
